@@ -177,6 +177,7 @@ iframe,
 figure {
 	display: block;
 	width: 100%;
+	height: auto;
 	max-width: 100%;
 	object-fit: cover;
 	-o-object-fit: cover;
@@ -207,6 +208,7 @@ b {
 	font-weight: inherit;
 	font-style: inherit;
 	color: inherit;
+	width: 100vw;
 }
 a {
 	display: block;

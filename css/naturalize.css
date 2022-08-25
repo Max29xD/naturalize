@@ -175,13 +175,12 @@ source,
 video,
 iframe,
 figure {
-	display: block;
+	max-width: 100%;
 	width: 100%;
 	height: auto;
 	max-width: 100%;
 	object-fit: cover;
 	-o-object-fit: cover;
-	/* ====================== OPCIONAL ====================== */
 	-o-object-position: center center;
 	object-position: center center;
 }

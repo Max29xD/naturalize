@@ -2,7 +2,7 @@
 	<img src="https://i.postimg.cc/rpjf1ZZF/logo-svg.png" alt="Logo" width="500"/>
 </p>
 
-# Normalize
+# Naturalize
 
 - Naturalize corrige los problemas y resetea los estilos por defectos que tienen al iniciar los archivo HTML y de esta manera tener un mayor control de los estilos principales de su hoja de estilo.
 
